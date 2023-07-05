@@ -1,0 +1,4 @@
+250; P.Funkcyjne;
+250; ProSeminarka;
+501; Czesne;
+Suma: 1001.00

@@ -1,3 +1,11 @@
+# INSTALL 
+### `npm install bootstrap react-icons`
+
+# PIC
+![Wygląd](pics/Cos.PNG)
+![Edycja](pics/Edit.PNG)
+![Plik exportu](pics/expenses_5-07-2023_15-34-39.txt)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
