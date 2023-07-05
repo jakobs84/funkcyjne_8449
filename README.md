@@ -1,5 +1,4 @@
-# INSTALL 
-### `npm install bootstrap react-icons`
+# Kalkulator REACT 
 
 # PIC Wygląd Menu Kalkulatora
 ![Wygląd](pics/Cos.PNG)
@@ -14,7 +13,8 @@
 501; Czesne;
 Suma: 1001.00
 ```
-
+# INSTALL 
+### `npm install bootstrap react-icons`
 
 # Getting Started with Create React App
 
