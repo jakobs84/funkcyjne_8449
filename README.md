@@ -1,4 +1,4 @@
-# Kalkulator REACT 
+# Lista wydatków REACT 
 
 # PIC Wygląd Menu Kalkulatora
 ![Wygląd](pics/Cos.PNG)
