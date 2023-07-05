@@ -1,10 +1,20 @@
 # INSTALL 
 ### `npm install bootstrap react-icons`
 
-# PIC
+# PIC Wygląd Menu Kalkulatora
 ![Wygląd](pics/Cos.PNG)
+# PIC Wygląd Menu Kalkulatora w trybie edycji 
 ![Edycja](pics/Edit.PNG)
-![Plik exportu](pics/expenses_5-07-2023_15-34-39.txt)
+
+# Eksport danych do pliku
+[expenses_5-07-2023_15-34-39.txt](pics/expenses_5-07-2023_15-34-39.txt)
+```
+250; P.Funkcyjne;
+250; ProSeminarka;
+501; Czesne;
+Suma: 1001.00
+```
+
 
 # Getting Started with Create React App
 
